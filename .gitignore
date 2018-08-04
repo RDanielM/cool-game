@@ -12,6 +12,10 @@
 .Trashes
 .VolumeIcon.icns
 
+# VS Code
+.vscode
+.expo
+
 # Xcode
 build/
 *.pbxuser
